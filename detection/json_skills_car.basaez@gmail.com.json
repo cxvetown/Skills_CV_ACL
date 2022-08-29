@@ -1,8 +1,16 @@
 {
   "name": "SELECCI\u00d3N TI",
   "email": "car.basaez@gmail.com",
-  "mobile_number": null,
+  "mobile_number": "5697786495",
   "skills": [
+    "Sql",
+    "Hardware",
+    "Html",
+    "Visual",
+    "Css",
+    "C",
+    "Github",
+    "Python",
     "Mysql",
     "Java",
     "Oracle"

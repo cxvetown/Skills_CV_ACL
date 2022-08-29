@@ -1,9 +1,17 @@
 {
   "name": "Sebasti\u00e1n Hermosilla",
   "email": "se.hermosillaf@gmail.com",
-  "mobile_number": null,
+  "mobile_number": "569 8459518",
   "skills": [
-    "Java"
+    "English",
+    "Django",
+    "Javascript",
+    "Python",
+    "Github",
+    "Bootstrap",
+    "Ionic",
+    "Java",
+    "Scrum"
   ],
   "college_name": null,
   "degree": null,
