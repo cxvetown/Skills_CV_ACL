@@ -1,14 +1,15 @@
 {
-  "nonkor@gmail.com": [],
+  "nonkor@gmail.com": [
+    "Cucumber",
+    "Selenium",
+    "Jmeter"
+  ],
   "lcordova@acl.cl": [
-    "Spring",
-    "Java",
-    "Mysql"
+    "Selenium",
+    "Java"
   ],
   "car.basaez@gmail.com": [
-    "Oracle",
-    "Java",
-    "Mysql"
+    "Java"
   ],
   "se.hermosillaf@gmail.com": [
     "Java"
