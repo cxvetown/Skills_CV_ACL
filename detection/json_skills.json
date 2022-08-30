@@ -1,18 +1,11 @@
 {
-  "nonkor@gmail.com": [
-    "Cucumber",
-    "Selenium",
-    "Jmeter"
-  ],
+  "nonkor@gmail.com": [],
   "lcordova@acl.cl": [
-    "Selenium",
-    "Java"
+    "C#",
+    ".net",
+    "Sql server"
   ],
-  "car.basaez@gmail.com": [
-    "Java"
-  ],
-  "se.hermosillaf@gmail.com": [
-    "Java"
-  ],
+  "car.basaez@gmail.com": [],
+  "se.hermosillaf@gmail.com": [],
   "linda.h@dayjob.co.uk": []
 }
