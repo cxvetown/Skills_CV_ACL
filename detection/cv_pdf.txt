@@ -1,0 +1,45 @@
+CONTACTO
+
+Teléfono: +56977760547
+Correo: lcordova@acl.cl
+
+CONOCIMIENTOS
+
+Manejo de inglés hablado y escrito nivel avanzado.
+Manejo de Office nivel intermedio.
+
+Experto en NET C#.
+
+API Rest Net Core 3.0 a nivel medi
+JQuery nivel medio
+
+SQL.
+
+Manejo de arauitecturas tales como MVC, Por Capas.
+Test Driven Development.
+
+Experto en Java.
+
+Selenium Web Driver.
+
+Trabajo colaborativo en Github.
+
+Manejo PHP nivel medio
+
+Manejo de proyectos en Jira
+
+Desarrollo de flujos de Power Automate
+
+Integraciones en Power Automate
+
+Manejo de datos en Power BI
+
+Crear Métricas en Power Bl
+
+Conocimientos de Hardware avanzado
+
+Desarrollo de Bots conversacionales
+
+Integracién de Bot conversacional a Microsoft Teams
+Integracién de Bot conversacional en Web
+
